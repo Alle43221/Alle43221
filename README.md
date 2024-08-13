@@ -4,30 +4,23 @@
 
 ###
 
-
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<div align="center">
+<div align="space-around" flex-direction="row">
+  <p align="left">- 🇷🇴 I'm Alexandra Moroz from Romania.<br><br>- 📚 I’m currently a second year student at UBB. <br>- 📈 I'm always looking for new ways to improve myself.<br>- ⚡ In my free time I like to draw and read. <br>- ✨ Solving bugs since 2019.</p>
+  <div align="center">
+  <img src="https://github.com/user-attachments/assets/75cbfd9f-12c6-4cf1-a719-44cefa693c99" height="250" alt="profile photo" />
+  </div>
+  <div align="center">
 <a href="https://www.linkedin.com/in/alexandra-moroz/" target="blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
 <a href="https://www.facebook.com/alexandra.moroz.7524" target="blank">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
 <a href="https://www.instagram.com/alle43221/" target="blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=c13584&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" /></a>
-</div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<div align="space-around" flex-direction="row">
-<p align="left">- 🇷🇴 I'm Alexandra Moroz from Romania.<br><br>- 📚 I’m currently a second year student at UBB. <br>- 📈 I'm always looking for new ways to improve myself.<br>- ⚡ In my free time I like to draw and read. <br>- ✨ Solving bugs since 2019.</p>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/75cbfd9f-12c6-4cf1-a719-44cefa693c99" height="250" alt="profile photo" />
-</div>
+  </div>
 </div>
 
 ###
