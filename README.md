@@ -1,3 +1,9 @@
+###
+
+<h1 align="center">Hi there 👋</h1>
+
+###
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/75cbfd9f-12c6-4cf1-a719-44cefa693c99" height="250" alt="profile photo" />
 
@@ -16,15 +22,11 @@
 
 ###
 
-<h1 align="center">Hi there 👋</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Alexandra Moroz from Romania.<br><br>- 📚 I’m currently a second year student at UBB. <br>- 📈 I'm currently looking for new ways to improve myself.<br>- ⚡ In my free time I like to draw. </p> <p align="left">✨ Solving bugs since 2019.<br>
+<p align="left">- 🇷🇴 I'm Alexandra Moroz from Romania.<br><br>- 📚 I’m currently a second year student at UBB. <br>- 📈 I'm always looking for new ways to improve myself.<br>- ⚡ In my free time I like to draw and read. <br>- ✨ Solving bugs since 2019.</p>
 
 ###
 
