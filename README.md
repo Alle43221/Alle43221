@@ -23,7 +23,7 @@
 
 ###
 
-<div align="space-around">
+<div align="space-around" flex-direction="row">
 <p align="left">- 🇷🇴 I'm Alexandra Moroz from Romania.<br><br>- 📚 I’m currently a second year student at UBB. <br>- 📈 I'm always looking for new ways to improve myself.<br>- ⚡ In my free time I like to draw and read. <br>- ✨ Solving bugs since 2019.</p>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/75cbfd9f-12c6-4cf1-a719-44cefa693c99" height="250" alt="profile photo" />
