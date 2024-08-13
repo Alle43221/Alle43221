@@ -1,5 +1,6 @@
 <div align="center">
-  ![375058421_823703942821317_5289514990926695531_n](https://github.com/user-attachments/assets/75cbfd9f-12c6-4cf1-a719-44cefa693c99)
+  <img src="https://github.com/user-attachments/assets/75cbfd9f-12c6-4cf1-a719-44cefa693c99" height="150" alt="profile photo" />
+
 </div>
 
 ###
