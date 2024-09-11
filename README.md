@@ -72,6 +72,11 @@
                      <li><a href=https://github.com/Alle43221/Managing_Financial_Data_Project2_C>Managing-Financial-Data-Project2-C</a></li>
                      <li><a href=https://github.com/Alle43221/Laboratories-C>Laboratories-C</a></li>
                 </ul></li>
+            <li>✅  Miscellaneous
+                <ul>
+                     <li><a href=https://github.com/Alle43221/Turtle-Simple-Drawing-Functions>Turtle-Simple-Drawing-Functions</a></li>
+                     <li><a href=https://github.com/Alle43221/Whatsapp-Message-Parser>Whatsapp-Message-Parser [IN PROGRESS]</a></li>
+                </ul></li>
  </ul>
 
 
