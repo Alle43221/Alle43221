@@ -48,3 +48,30 @@
 </div>
 
 ###
+
+<h3 align="left">⭐  Featured:</h3>
+ <ul>
+            <li>✅  WebDev
+                <ul>
+                    <li><a href=https://github.com/Alle43221/Scrimba-Password-Generator>Scrimba-Password-Generator</a></li>
+                    <li><a href=https://github.com/Alle43221/AccurateAlcometer>Accurate-Alcometer</a></li>
+                    <li><a href=https://github.com/Alle43221/Scrimba-Basketball-Scoreboard>Scrimba-Basketball-Scoreboard</a></li>
+                    <li><a href=https://github.com/Alle43221/Scrimba-Metrics-Converter>Scrimba-Metrics-Converter</a></li>
+                    <li><a href=https://github.com/Alle43221/Scrimba-Javascript-Tutorial-Projects>Scrimba-Javascript-Tutorial-Projects</a></li>
+                    <li><a href=https://github.com/Alle43221/Vue-Presentation-Page>Vue-Presentation-Page</a></li>
+                </ul></li>
+            <li>✅  Evolution of Perpetuum Mobile Webpage
+                <ul>
+                    <li><a href=https://github.com/Alle43221/CSS-Perpetuum-Mobile-Website>First iteration with pure CSS and HTML</a></li>
+                    <li><a href=https://github.com/Alle43221/Vue-Perpetuum-Mobile-Website>Second iteration with Vue</a></li>
+                    <li><a href=https://github.com/Alle43221/Concept-Perpetuum-Mobile-Website>Concept for next year's website made with React</a></li>
+                </ul></li>
+            <li>✅  University Projects
+                <ul>
+                     <li><a href=https://github.com/Alle43221/Managing_Financial_Data_Project1_C>Managing-Financial-Data-Project1-C</a></li>
+                     <li><a href=https://github.com/Alle43221/Managing_Financial_Data_Project2_C>Managing-Financial-Data-Project2-C</a></li>
+                     <li><a href=https://github.com/Alle43221/Laboratories-C>Laboratories-C</a></li>
+                </ul></li>
+ </ul>
+
+
