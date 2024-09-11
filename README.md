@@ -75,7 +75,7 @@
             <li>✅  Miscellaneous
                 <ul>
                      <li><a href=https://github.com/Alle43221/Turtle-Simple-Drawing-Functions>Turtle-Simple-Drawing-Functions</a></li>
-                     <li><a href=https://github.com/Alle43221/Whatsapp-Message-Parser>Whatsapp-Message-Parser [IN PROGRESS]</a></li>
+                     <li><a href=https://github.com/Alle43221/Whatsapp-Message-Parser>Whatsapp-Message-Parser</a></li>
                 </ul></li>
  </ul>
 
