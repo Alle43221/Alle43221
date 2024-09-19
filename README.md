@@ -61,6 +61,7 @@
                 </ul></li>
             <li>✅  IPWorkshop
                 <ul>
+                    <li><a href=https://github.com/Alle43221/Tauri-Weather-App>Tauri-Weather-App</a></li>
                     <li><a href=https://github.com/Alle43221/Vue-Presentation-Page>Vue-Presentation-Page</a></li>
                 </ul></li>
             <li>✅  Evolution of Perpetuum Mobile Webpage
