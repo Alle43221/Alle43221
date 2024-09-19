@@ -58,6 +58,9 @@
                     <li><a href=https://github.com/Alle43221/Scrimba-Basketball-Scoreboard>Scrimba-Basketball-Scoreboard</a></li>
                     <li><a href=https://github.com/Alle43221/Scrimba-Metrics-Converter>Scrimba-Metrics-Converter</a></li>
                     <li><a href=https://github.com/Alle43221/Scrimba-Javascript-Tutorial-Projects>Scrimba-Javascript-Tutorial-Projects</a></li>
+                </ul></li>
+            <li>✅  IPWorkshop
+                <ul>
                     <li><a href=https://github.com/Alle43221/Vue-Presentation-Page>Vue-Presentation-Page</a></li>
                 </ul></li>
             <li>✅  Evolution of Perpetuum Mobile Webpage
