@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
 <a href="https://www.instagram.com/alle43221/" target="blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=c13584&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" /></a>
+<img src="https://komarev.com/ghpvc/?username=Alle43221&style=flat-square&color=blue" alt=""/>
   </div>
 
 <h3 align="left">👩‍💻  About Me</h3>
