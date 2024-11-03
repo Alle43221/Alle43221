@@ -54,6 +54,7 @@
             <li>⏳  In progress...
               <ul>
                 <li><a href=https://github.com/Alle43221/Fundamentals-of-Programming-Assignments>Fundamentals-of-Programming-Assignments</a></li>
+                <li><a href=https://github.com/Alle43221/OOP-C-Projects>OOP-C-Projects</a></li>
               </ul>
             <li>✅  WebDev
                 <ul>
