@@ -51,6 +51,10 @@
 
 <h3 align="left">⭐  Featured:</h3>
  <ul>
+            <li> In progress...
+              <ul>
+                <li><a href=https://github.com/Alle43221/Fundamentals-of-Programming-Assignments>Fundamentals-of-Programming-Assignments</a></li>
+              </ul>
             <li>✅  WebDev
                 <ul>
                     <li><a href=https://github.com/Alle43221/Scrimba-Password-Generator>Scrimba-Password-Generator</a></li>
