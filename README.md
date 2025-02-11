@@ -83,6 +83,7 @@
                 </ul></li>
             <li>✅  University Projects
                 <ul>
+                     <li><a href=https://github.com/Alle43221/Advanced-Programming-Methods>Advanced-Programming-Methods</a></li>
                      <li><a href=https://github.com/Alle43221/Managing_Financial_Data_Project1_C>Managing-Financial-Data-Project1-C</a></li>
                      <li><a href=https://github.com/Alle43221/Managing_Financial_Data_Project2_C>Managing-Financial-Data-Project2-C</a></li>
                      <li><a href=https://github.com/Alle43221/Laboratories-C>Laboratories-C</a></li>
