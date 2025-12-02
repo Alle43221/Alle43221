@@ -56,6 +56,22 @@
                 <li><a href=https://github.com/Alle43221/Fundamentals-of-Programming-Assignments>Fundamentals-of-Programming-Assignments</a></li>
                 <li><a href=https://github.com/Alle43221/OOP-C-Projects>OOP-C-Projects</a></li>
               </ul>
+              <li>✅  Miscellaneous
+                <ul>
+                     <li><a href=https://github.com/AleXutzZu/DeepShield>DeepShield - Chrome extension for deepfake detection</a></li>
+                     <li><a href=https://github.com/Alle43221/Timetable-Parser>UBB Timetable-Parser</a></li>
+                     <li><a href=https://github.com/Alle43221/Whatsapp-Message-Parser>Whatsapp-Message-Parser</a></li>
+                     <li><a href=https://github.com/Alle43221/Turtle-Simple-Drawing-Functions>Turtle-Simple-Drawing-Functions</a></li>
+                </ul></li>
+              <li>✅  University Projects
+                <ul>
+                     <li><a href=https://github.com/Alle43221/Advanced-Programming-Methods>Advanced-Programming-Methods</a></li>
+                     <li><a href=https://github.com/Alle43221/Managing_Financial_Data_Project1_C>Managing-Financial-Data-Project1-C</a></li>
+                     <li><a href=https://github.com/Alle43221/Managing_Financial_Data_Project2_C>Managing-Financial-Data-Project2-C</a></li>
+                     <li><a href=https://github.com/Alle43221/Laboratories-C>Laboratories-C</a></li>
+                     <li><a href=https://github.com/Alle43221/Computer-Architecture-Assignments>Computer-Architecture-Assignments</a></li>
+                     <li><a href=https://github.com/Alle43221/WebProgramming-Labs>WebProgramming-Labs</a></li>
+            </ul></li>
             <li>✅  WebDev
                 <ul>
                     <li><a href=https://github.com/Alle43221/Scrimba-Password-Generator>Scrimba-Password-Generator</a></li>
@@ -76,21 +92,6 @@
                     <li><a href=https://github.com/Alle43221/CSS-Perpetuum-Mobile-Website>First iteration with pure CSS and HTML</a></li>
                     <li><a href=https://github.com/Alle43221/Vue-Perpetuum-Mobile-Website>Second iteration with Vue</a></li>
                     <li><a href=https://github.com/Alle43221/Concept-Perpetuum-Mobile-Website>Concept for next year's website made with React</a></li>
-                </ul></li>
-            <li>✅  University Projects
-                <ul>
-                     <li><a href=https://github.com/Alle43221/Advanced-Programming-Methods>Advanced-Programming-Methods</a></li>
-                     <li><a href=https://github.com/Alle43221/Managing_Financial_Data_Project1_C>Managing-Financial-Data-Project1-C</a></li>
-                     <li><a href=https://github.com/Alle43221/Managing_Financial_Data_Project2_C>Managing-Financial-Data-Project2-C</a></li>
-                     <li><a href=https://github.com/Alle43221/Laboratories-C>Laboratories-C</a></li>
-                     <li><a href=https://github.com/Alle43221/Computer-Architecture-Assignments>Computer-Architecture-Assignments</a></li>
-                     <li><a href=https://github.com/Alle43221/WebProgramming-Labs>WebProgramming-Labs</a></li>
-                </ul></li>
-            <li>✅  Miscellaneous
-                <ul>
-                     <li><a href=https://github.com/Alle43221/Timetable-Parser>Timetable-Parser</a></li>
-                     <li><a href=https://github.com/Alle43221/Whatsapp-Message-Parser>Whatsapp-Message-Parser</a></li>
-                     <li><a href=https://github.com/Alle43221/Turtle-Simple-Drawing-Functions>Turtle-Simple-Drawing-Functions</a></li>
                 </ul></li>
  </ul>
 
