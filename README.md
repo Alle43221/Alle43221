@@ -84,6 +84,7 @@
                      <li><a href=https://github.com/Alle43221/Managing_Financial_Data_Project2_C>Managing-Financial-Data-Project2-C</a></li>
                      <li><a href=https://github.com/Alle43221/Laboratories-C>Laboratories-C</a></li>
                      <li><a href=https://github.com/Alle43221/Computer-Architecture-Assignments>Computer-Architecture-Assignments</a></li>
+                     <li><a href=https://github.com/Alle43221/WebProgramming-Labs>WebProgramming-Labs</a></li>
                 </ul></li>
             <li>✅  Miscellaneous
                 <ul>
