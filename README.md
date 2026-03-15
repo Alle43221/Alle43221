@@ -16,7 +16,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 <img right-padding="10%" align="right" src="https://github.com/user-attachments/assets/75cbfd9f-12c6-4cf1-a719-44cefa693c99" height="250" alt="profile photo" />
-<div align="left"><p align="left">- 📚 I’m currently a final year student at UBB. <br>- 📈 I'm always looking for new ways to improve myself.<br>- ⚡ In my free time I like to       draw and read. <br>- ✨ Solving bugs since 2019.</p>
+<div align="left"><p align="left">- 📚 Final year student at UBB. <br>- 📈 Always looking for new ways to improve myself.<br>- ⚡ In my free time I like to       draw and read. <br>- ✨ Solving bugs since 2019.</p>
 </div>
 
 ###
@@ -63,7 +63,7 @@
                      <li><a href=https://github.com/Alle43221/Whatsapp-Message-Parser>Whatsapp-Message-Parser</a></li>
                      <li><a href=https://github.com/Alle43221/Turtle-Simple-Drawing-Functions>Turtle-Simple-Drawing-Functions</a></li>
                 </ul></li>
-              <li>✅  University Projects
+               <li>✅  University Projects
                 <ul>
                      <li><a href=https://github.com/Alle43221/Advanced-Programming-Methods>Advanced-Programming-Methods</a></li>
                      <li><a href=https://github.com/Alle43221/Managing_Financial_Data_Project1_C>Managing-Financial-Data-Project1-C</a></li>
@@ -72,6 +72,11 @@
                      <li><a href=https://github.com/Alle43221/Computer-Architecture-Assignments>Computer-Architecture-Assignments</a></li>
                      <li><a href=https://github.com/Alle43221/WebProgramming-Labs>WebProgramming-Labs</a></li>
                      <li><a href=https://github.com/Alle43221/PLF-Labs>Logical-and-Functional-Programming-Labs</a></li>
+            </ul></li>
+              <li>✅ University Teamwork
+                <ul>
+                     <li><a href=https://github.com/geoqiq/sudo-project>PuppyPi-Ball-Tracking-Robot</a></li>
+                     <li><a href=https://github.com/Pahul0516/Ares_server>Ares-Running-App-Backend</a></li>
             </ul></li>
             <li>✅  WebDev
                 <ul>
