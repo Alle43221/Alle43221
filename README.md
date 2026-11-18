@@ -16,7 +16,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 <img right-padding="10%" align="right" src="https://github.com/user-attachments/assets/75cbfd9f-12c6-4cf1-a719-44cefa693c99" height="250" alt="profile photo" />
-<div align="left"><p align="left">- 📚 Final year student at UBB. <br>- 📈 Always looking for new ways to improve myself.<br>- ⚡ In my free time I like to       draw and read. <br>- ✨ Solving bugs since 2019.</p>
+<div align="left"><p align="left">- 📚 Ex CS student at UBB. <br>- 📈 Always looking for new ways to improve myself.<br>- ⚡ In my free time I like to draw and read. <br>- ✨ Solving bugs since 2019.</p>
 </div>
 
 ###
